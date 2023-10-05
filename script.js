@@ -253,3 +253,4 @@ let mergeSort = function(array) {
 // obj1 === obj2 // false
 let clone = function(input) {
 };
+
